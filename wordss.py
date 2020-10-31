@@ -1,3 +1,5 @@
+# random words that will be seleced each time the game is runed
+
 words = [
     'wares',
     'soup',
