@@ -17,65 +17,28 @@
  - Acknowledgements: Kite at Youtube and William Romano
  - link of Youtube video: https://www.youtube.com/watch?v=m4nEnsavl6w&t=449s
 
-## Milestone 1: Setup, Planning, Design
 
-   **Title**: What is the title of your project?
+   **Title**: 
    
    
    Hangman Game
     
     
-   **Purpose**: In a single sentence, describe what your project will do.
+   **Purpose**:
     
     
    The game of hangman: will invite the user to guess words from possible word bank and by guessing letter by letter the 
     turtle will be drawing the hangman. 
     
     
-️**Sources**: Which assignments or code will you base your project on?
-
-
-   T13 and T15
-    
-    
-️**Kanban Board**: What is the link to the Kanban board on Trello?
+️**Kanban Board**: 
 
 
    https://trello.com/b/GD2Xso29/226-final-project
-    
-    
-️**CRC Card**:
-    
-
-![alt_text](image/crc_1.png)
-![alt_text](image/crc2.png)
-
-   **The updated CRC Cards**:
-   
-   
-![alt_text](image/updated.png)  
-![alt_text](image/updated2.png)
-
-## Milestone 2: Code
-
-Have updated the Kanban board on Trello. Also updated CRC cards and now have a basic structure in which my coding will go :). 
-
+  
+  
 ---
 
-## Milestone 3: Virtual Check-in
-
-
-Completion Percentage: 55% 
-
-
-I am very confident that I would have my project completed by friday. I have more than 50 percent of the game completed 
-all that needs to be done will be implementing the user interaction and the turtle and I should figure that out in two days. 
-My biggest problem is interacting the two classes. If I can't figure out by tomorrow morning, I will attend the wednesday 
-TA lab to get help. 
-
----
-
-## Milestone 4: Final Code, Presentation, Demo
 
 ### ❗User Instructions
 
@@ -84,9 +47,7 @@ If you guess a letter correctly I will appear on the dashed line which indicate 
 in the word, part of the hangman will draw for example your first incorrect guessed letter will draw the head of the hangman and your second 
 incorrect guessed will draw the body and so on. If you run out of tries the it will let you know you lost and exit out of the window.
 
-### ❗Errors and Constraints
-
-I only have TypeError which took me a while and I still couldn't figure it out.
+.
 ### ❗Reflection
 
 
